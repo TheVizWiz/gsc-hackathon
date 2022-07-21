@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?><?import java.util.*?><?import javafx.scene.*?>
+<?import javafx.scene.control.*?><?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" spacing="5" prefHeight="400" prefWidth="100" fx:id="mainVBox">
+    <Label fx:id="nameLabel" style="-fx-text-fill: white; -fx-font-size: 24"/>
+    <Label text="Flagged Status: " style="-fx-text-fill: white; -fx-font-size: 16"/>
+    <Label fx:id="isFlagged" style="-fx-text-fill: white; -fx-font-size: 16"/>
+    <Label text="Picked Last: " style="-fx-text-fill: white; -fx-font-size: 16"/>
+    <Label fx:id="isPickedLastRound" style="-fx-text-fill: white; -fx-font-size: 16"/>
+    <Button text="switch Flagged Status" fx:id="flagSwitcher" wrapText="true" prefWidth="200"/>
+
+</VBox>

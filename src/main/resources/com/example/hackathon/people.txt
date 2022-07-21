@@ -1,0 +1,18 @@
+Pat
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/black dude 2.jpg
+Tom C
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/black dude 3.jpg
+Tom A
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/black girl 2.jpg
+Tom B
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/white dude 2.jpg
+Tom D
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/white dude 3.jpg
+Prateek
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/black girl 1.jpg
+Madhu
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/white girl .jpg
+Tim
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/white girl 1.jpg
+Garrett
+/Users/viiyer/Documents/Internship/hackathon/src/main/resources/com/example/hackathon/hackathon images/garrett.png

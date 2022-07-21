@@ -12,17 +12,18 @@ import java.util.HashMap;
 import java.util.stream.Collectors;
 
 public class HelloApplication extends Application {
+
+    public static Stage stage;
     @Override
     public void start (Stage stage) throws IOException {
-        File file = new File("src/main/resources/com/example/hackathon/people.json");
-        BufferedReader reader = new BufferedReader(new FileReader(file));
-        String s = reader.lines().collect(Collectors.joining(" "));
+
 //        HashMap<String, String> peopleString = GsonBuilder
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("Hello!");
+        Scene scene = new Scene(fxmlLoader.load(), 1000, 1000);
+        stage.setTitle("Pull the lever!");
         stage.setScene(scene);
         stage.show();
+        HelloApplication.stage = stage;
     }
 
     public static void main (String[] args) {
